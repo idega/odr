@@ -280,7 +280,7 @@
 		<dependency>
 			<groupId>com.idega.block.egov</groupId>
 			<artifactId>is.idega.webservice</artifactId>
-		</dependency
+		</dependency>
 		
 		<!-- Private dependencies -->
 		<dependency>
