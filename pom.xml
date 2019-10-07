@@ -397,6 +397,10 @@
 	  			</exclusion>
 			</exclusions>
 		</dependency>
+		<dependency>
+			<groupId>com.idega.block.private</groupId>
+			<artifactId>com.idega.cloud.process</artifactId>
+		</dependency>
 		
 		<!-- 3rd parties -->
 		<dependency>
